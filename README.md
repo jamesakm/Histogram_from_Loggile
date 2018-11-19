@@ -33,4 +33,4 @@ Program to generate the historical data from the given log file.
     
 
 
-4. I have wriiten ans tested the script using iPython and Jupiter note book. Updated versions will be coming soon.
+4. The progeam is written and tested the script using iPython and Jupiter note book. Updated versions will be coming soon.
