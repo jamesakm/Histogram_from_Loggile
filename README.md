@@ -13,7 +13,7 @@ Program to generate the historical data from the given log file.
  
    pip is the preferred installer program. 
 
-       The following command will install the latest version of a module and its dependencies from the Python Packaging   Index:
+   The following command will install the latest version of a module and its dependencies from the Python Packaging   Index:
 
       # python -m pip install <SomePackage> Or you can simply use  pip install <SomePackage>
   
