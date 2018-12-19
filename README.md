@@ -1,4 +1,4 @@
-# Histogram_from_Loggile
+# Create Histogram from Log file
 
 Program to generate the historical data from the given log file.
 
